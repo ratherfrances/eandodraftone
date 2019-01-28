@@ -147,7 +147,7 @@ footer {
 
 /* Navigation section */
 .navbar-default {
-    background: #209292;
+    background: grey;
     border: none;
     box-shadow: 0px 2px 8px 0px rgba(50, 50, 50, 0.04);
     margin: 0 !important;
@@ -166,7 +166,7 @@ footer {
 }
 
 .navbar-default .navbar-nav li a {
-    color: #757575;
+    color: white;
     font-size: 12px;
     font-weight: 600;
     line-height: 50px;
@@ -491,14 +491,14 @@ footer {
 }
 
 #contact input[type='submit']:hover {
-  background: #A7221A;
+  background-color: #CCE5D6;
 }
 
 
 
 /* Contact detail section */
 #contact-detail {
-  background: #A7221A;
+  background-color: #CCE5D6;
   color: #999;
 }
 
