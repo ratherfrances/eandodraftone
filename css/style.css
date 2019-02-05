@@ -273,7 +273,7 @@ footer {
 
 /* Openings section  */
 #openings {
-  background: url('../images/openings-bg.jpg') 50% 0 repeat-y fixed;
+  background: url('../images/counter.jpg') 50% 0 repeat-y fixed;
   -webkit-background-size: cover;
   background-size: cover;
   background-position: center center;
@@ -314,7 +314,7 @@ footer {
 }
 
 #team .team-des h4 {
-  color: #A7221A;
+  color: black;
   padding-top: 0px;
   padding-bottom: 10px;
 }
@@ -325,7 +325,8 @@ footer {
 }
 
 #team .team-des {
-  background: #ffffff;
+	color: black;
+  background: white;
   box-shadow: 0px 2px 8px 0px rgba(50, 50, 50, 0.04);
   position: absolute;
   bottom: 0px;
