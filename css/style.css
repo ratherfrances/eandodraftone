@@ -99,7 +99,10 @@ footer {
   text-align: center;
 }
 
-
+#menuPages {
+	text-align: center;
+	background-color: #bce2ce;  
+}
 
 /* section title */
 .section-title {
@@ -465,12 +468,16 @@ footer {
 
 /* Testimonial section  */
 #testimonial {
-  background: url('../images/testimonial-bg.jpg') 50% 0 repeat-y fixed;
+  background: url('../images/horchick.png') 50% 0 repeat-y fixed;
   -webkit-background-size: cover;
   background-size: cover;
   background-position: center center;
   color: #ffffff;
 }
+
+/*#testimonial img {
+	opacity: .3;
+}*/
 
 #testimonial h3 {
   color: rgba(250,250,250,0.8);
