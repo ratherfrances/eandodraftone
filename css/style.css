@@ -259,7 +259,7 @@ footer {
   border: 3px solid #A7221A;
   border-radius: 0px;
   color: #555;
-  font-size: 12px;
+  font-size: 14px;
   letter-spacing: 2px;
   padding: 13px 30px;
   margin-top: 34px;
@@ -298,18 +298,18 @@ footer {
 
 
 /* Menu section */
-#menu .media {
+/* #menu .media {
   padding-bottom: 20px;
 }
 
 #menu img {
   width: 160px;
   padding-right: 12px;
-}
+} */
 
 
 
-/* Team section */
+/* Team section(actually menus!) */
 
 #team h3 {
   padding-bottom: 0px;
