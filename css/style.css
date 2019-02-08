@@ -310,6 +310,13 @@ footer {
 
 
 /* Team section(actually menus!) */
+#bmenu {
+	color: ;
+	text-align: center;
+}
+#bmenu h1 {
+	font-size: 18px;
+}
 
 #team h3 {
   padding-bottom: 0px;
